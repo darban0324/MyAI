@@ -171,7 +171,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:3001/api/chat",
+        "https://my-ai.alilkhan03243652.workers.dev/api/chat",
         {
           method: "POST",
           headers: {
