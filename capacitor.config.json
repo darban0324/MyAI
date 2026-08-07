@@ -1,5 +1,9 @@
 {
   "appId": "com.myai.app",
   "appName": "MY AI",
-  "webDir": "dist"
+  "webDir": "dist",
+  "server": {
+    "url": "https://my-ai.alilkhan03243652.workers.dev",
+    "cleartext": false
+  }
 }
