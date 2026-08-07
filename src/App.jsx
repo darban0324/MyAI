@@ -291,6 +291,7 @@ function App() {
 
         <div className="logo">
           MY AI
+          <div style={{ fontSize: "12px" }}>AUTO UPDATE TEST v2</div>
         </div>
 
         <button
